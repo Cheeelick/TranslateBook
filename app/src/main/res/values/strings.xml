@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ButtonLogin">LogIn</string>
+    <string name="TavBooks">Books</string>
+    <string name="OutText">Out the text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
